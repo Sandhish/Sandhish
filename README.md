@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhish&label=Profile%20views&color=0e75b6&style=flat" alt="sandhish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhish" alt="sandhish" /></a> </p>
-
 - 🌱 I’m currently learning **Reactjs, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://sandhish.vercel.app/](https://sandhish.vercel.app/)
