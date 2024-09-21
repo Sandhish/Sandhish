@@ -1,8 +1,12 @@
-<p align="center">Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm SANDHISH J</p>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" width="40" height="40" />
+  Hai, I'm SANDHISH J
+</h1>
+
 ==================================================================================================================================
 
 <p align="center">MERN Stack Developer</p>
---------------------
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhish&label=Profile%20views&color=0e75b6&style=flat" alt="sandhish" /> </p>
 
 I'm a passionate Web Developer with a keen interest in creating dynamic and visually appealing web applications. My expertise spans across the full stack, with a focus on modern technologies and best practices.
