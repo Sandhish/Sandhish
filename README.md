@@ -1,9 +1,7 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" width="40" height="40" />
-  Hai, I'm SANDHISH J
+  Hai,<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" width="40" height="40" />
+  I'm SANDHISH J
 </h1>
-
-==================================================================================================================================
 
 <p align="center">MERN Stack Developer</p>
 
