@@ -35,6 +35,7 @@ I'm a passionate Web Developer with a keen interest in creating dynamic and visu
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Sandhish)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
 # 📊GitHub Stats :
 <table>
